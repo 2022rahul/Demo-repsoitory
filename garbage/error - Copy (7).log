@@ -1,0 +1,7 @@
+hey
+what
+yoi
+going
+on the 
+if i edit this file error.log then there is no error in git bash now its untracking 
+beacuse of .gitignore file , we put the file name in .gitignore file then that is untracking mode
